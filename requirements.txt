@@ -1,0 +1,28 @@
+# Core data science libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Jupyter notebooks
+jupyter
+ipykernel
+
+# Deep learning
+tensorflow
+keras
+
+# Additional ML libraries
+xgboost
+lightgbm
+catboost
+
+# Utilities
+scikit-optimize
+imbalanced-learn
+statsmodels
+
+# GPU support (optional)
+torch
+torchvision
